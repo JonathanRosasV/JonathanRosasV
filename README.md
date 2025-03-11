@@ -4,14 +4,13 @@
 </p>
 
  **Let's connect:**  
-<p align ="center">
+
   <a  href="https://www.linkedin.com/in/percyjrosas" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   <a href="mailto:percy.rosas@bse.eu?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-</p>
 
 <p>I specialize in economic research, financial analysis, and econometrics. My work involves using Python, R, and SQL for data analysis, visualization, and forecasting in financial and economic contexts.</p>
 
