@@ -61,7 +61,7 @@
     <a href="https://github.com/jonathanrosasv/github-readme-stats"><img alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonathanrosas&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
   <br/>
   &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanrosas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jonathanrosas" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanrosas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jonathanrosasv" height="192px"/>
   <br/>
   </p>
 </details>
