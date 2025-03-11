@@ -42,13 +42,13 @@
 
 ## Projects
 
-<a href="https://github.com/jonathanrosas/financial-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanrosas&repo=financial-analysis&theme=tokyonight" />
+<a href="https://github.com/JonathanRosasV/IndicadorCoincidente">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanRosasV&repo=IndicadorCoincidente&theme=tokyonight" />
 </a>  
 
-<a href="https://github.com/jonathanrosas/econometrics-tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanrosas&repo=econometrics-tools&theme=tokyonight" />
-</a> 
+<a href="https://github.com/JonathanRosasV/Teoria-Portafolio-Peru">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanRosasV&repo=Teoria-Portafolio-Peru&theme=tokyonight" />
+</a>
 
 ## GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
@@ -63,6 +63,3 @@
   <br/>
   </p>
 </details>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jonathanrosas&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
