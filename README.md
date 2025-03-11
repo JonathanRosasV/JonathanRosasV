@@ -59,7 +59,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/jonathanrosasv/github-readme-stats">
-      <img alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonathanrosasv&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+      <img alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonathanrosasv&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=86400" height="192px"/>
     </a>
   <br/>
   &nbsp;
