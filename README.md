@@ -52,16 +52,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanRosasV&repo=Teoria-Portafolio-Peru&theme=tokyonight" />
 </a>
 
-## GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+## **GitHub Stats** <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/jonathanrosasv/github-readme-stats"><img alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonathanrosas&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/jonathanrosasv/github-readme-stats">
+      <img alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonathanrosasv&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+    </a>
   <br/>
   &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanrosas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jonathanrosasv" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanrosasv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jonathanrosasv" height="192px"/>
   <br/>
   </p>
 </details>
+
