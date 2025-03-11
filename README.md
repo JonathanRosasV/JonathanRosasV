@@ -2,12 +2,13 @@
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+Economist;I'm+also+a+University+Professor" /></a>
 </p>
- 
+
+ **Let's connect:**  
 <p align ="center">
-  <a  href="https://www.linkedin.com/in/jonathan-rosas" target="_blank">
+  <a  href="https://www.linkedin.com/in/percyjrosas" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-  <a href="mailto:jonathan.rosas@example.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:percy.rosas@bse.eu?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
 </p>
@@ -26,6 +27,12 @@
   <a href="https://www.r-project.org/" target="_blank">
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  </a>
    <a href="https://colab.research.google.com/" target="_blank">
     <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
   </a>
@@ -40,6 +47,42 @@
   </a>
   <a href="https://daringfireball.net/projects/markdown/" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  </a>
+  <a href="https://shiny.rstudio.com/" target="_blank">
+    <img alt="Shiny" src="https://img.shields.io/badge/Shiny-%23007ACC.svg?style=for-the-badge&logo=r&logoColor=white">  
+  </a>
+  <a href="https://plotly.com/dash/" target="_blank">
+    <img alt="Plotly Dash" src="https://img.shields.io/badge/Plotly%20Dash-119ED9?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  </a>
+  <a href="https://www.databricks.com/" target="_blank">
+    <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black">
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
+  </a>
+  <a href="https://www.scala-lang.org/" target="_blank">
+    <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white">
 </p>
 
 ## Projects
